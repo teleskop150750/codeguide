@@ -10,6 +10,7 @@
 		"ecmaVersion": 11,
 		"sourceType": "module"
 	},
+	"parser": "babel-eslint",
 	"rules": {
 		"max-len": [
 			1,
